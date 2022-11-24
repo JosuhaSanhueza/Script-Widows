@@ -1,2 +1,2 @@
 # Script-Widows
-Scripts en CMD útiles que he elaborado para facilitarme la vida :D
+Scripts útiles que he elaborado para facilitarme la vida :D
